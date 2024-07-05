@@ -16,13 +16,13 @@
     "!**/__mocks__"
   ],
   "keywords": ["react-native", "ios", "android"],
-  "repository": "https://github.com/<your_github_handle>/rtn-centered-text",
+  "repository": "https://github.com/GodVampire/RTNCenteredText",
   "author": "Mahmoud",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/<your_github_handle>/rtn-centered-text/issues"
+      "url": "https://github.com/GodVampire/RTNCenteredText/issues"
   },
-  "homepage": "https://github.com/<your_github_handle>/rtn-centered-text#readme",
+  "homepage": "https://github.com/GodVampire/RTNCenteredText#readme",
   "devDependencies": {},
   "peerDependencies": {
     "react": "*",
